@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="InRule.Authoring.AWS.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ZipFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\dreynolds.INRULE\Desktop\AWS\Blog\rules.zip</Value>
+    </Setting>
+    <Setting Name="RuleFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\dreynolds.INRULE\Desktop\AWS\Blog\rules.js</Value>
+    </Setting>
+    <Setting Name="IndexFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\dreynolds.INRULE\Desktop\AWS\Blog\index.js</Value>
+    </Setting>
+    <Setting Name="IndexFileTemplatePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\dreynolds.INRULE\Desktop\AWS\Blog\indexTemplate.js</Value>
+    </Setting>
+    <Setting Name="AwsAccessKeyId" Type="System.String" Scope="User">
+      <Value Profile="(Default)"></Value>
+    </Setting>
+    <Setting Name="AwsSecretKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)"></Value>
+    </Setting>
+    <Setting Name="InRuleDistKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)"></Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
