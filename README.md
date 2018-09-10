@@ -1,6 +1,6 @@
 # Labs-AWS-Lambda
 
-This repo contains the code that is referenced in this [blog post](http://www.inrule.com/resources/blog/inrule-aws-lambda)
+This repo contains the code that is referenced in this [blog post](https://www.inrule.com/resources/blog/serverless-execution-with-inrule-for-javascript-and-aws-lambda/)
 
 Please refer to the blog for details and if you have any other questions, email me at **dreynolds@inrule.com**.
 
